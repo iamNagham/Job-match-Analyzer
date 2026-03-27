@@ -7,7 +7,6 @@ This project analyzes how well a resume matches a job description using NLP tech
 - Compare with job description
 - Calculate text similarity score
 - Identify matched and missing skills
-- Provide recommendations
 
 ## Techniques Used
 - TF-IDF Vectorization
